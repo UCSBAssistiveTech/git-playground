@@ -1,0 +1,8 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Practice files: create these locally to observe ignored files in `git status`
+*.log
+.env
+scratch/
