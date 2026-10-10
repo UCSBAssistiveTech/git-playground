@@ -6,7 +6,7 @@ def build_message(name: str = "World") -> str:
     return f"Hello, {name}!"
 
 def greet(name: str) -> str:
-    return f"Hello, {name}!"
+    return f"Hey, {name}! Can I get your WeChat?"
 
 def main() -> None:
     print(build_message())
