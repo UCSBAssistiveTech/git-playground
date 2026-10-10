@@ -10,7 +10,7 @@ def greet(name: str) -> str:
 
 def main() -> None:
     print(build_message())
-    print(greet("Rishi"))
+    print(greet("b3tron"))
 
 
 if __name__ == "__main__":
